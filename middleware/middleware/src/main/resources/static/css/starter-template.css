@@ -1,0 +1,137 @@
+
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+.container {
+  background-color: #ffffff;
+  border-radius: 30px;
+  width: 960px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background-image: url("/resources/images/bg-1.png");
+  background-repeat: no-repeat;
+  background-position-x: 75%;
+  background-position-y: 75%;
+  background-position: center;
+  background-size: cover;
+}
+h4, p {color: #ffffff;}
+h4 {font-size: 25px;}
+h3 {color: #676767; text-align: center;}
+#nav-tabContent {
+  background-color: #ffffff;
+  border-radius: 30px;
+}
+.est-cetner-btn {
+  border-radius: 32px !important;
+  margin: 0 auto;
+}
+.nav-pills {
+  font-size: 20px;
+  border-radius: 30px 30px 0 0;
+}
+.nav-link {
+  color: #9A9A9A;
+}
+.nav-pills .nav-link.active {
+  border-bottom: #267DFF 5px solid;
+  border-radius: 0px;
+  color: #267DFF !important;
+  background-color: transparent !important;
+}
+.nav-pills .nav-link {
+}
+.est {
+  background-color: #267DFF;
+  border-radius: 30px 0px 0px 30px;
+}
+.form-control {
+  border-bottom: 1px solid #707070;
+  border-right: 0px solid #ced4da !important;
+  border-left: 0px solid #ced4da !important;
+  border-top: 0px solid #ced4da !important;
+  border-radius: 0rem !important;
+}
+
+.c-line-center {
+  width: 30px;
+  height: 5px;
+  margin: 30px auto 30px auto;
+  background: #267DFF;
+}
+.c-line-center-white {
+  width: 30px;
+  height: 5px;
+  margin: 30px auto 30px auto;
+  background: #FFF;
+}
+.est-btn {
+  background: #267DFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 6px #00000057;
+  border-radius: 32px !important;
+  opacity: 1;
+  font-weight: bold;
+}
+input.form-control::placeholder {
+  color: #b7b7b7 !important;
+}
+.frgt-link a {
+  color: #929292;
+}
+.create-link a {
+  color: #267DFF;
+}
+.est {
+  background-image: url("/resources/images/Subtraction2.png");
+  background-repeat: no-repeat;
+  background-position-y: 85%;
+  background-position-x: right;
+}
+
+.est-1 {
+  background-image: url("/resources/images/Subtraction4.png");
+  background-repeat: no-repeat;
+  background-position-y: 20%;
+  background-position-x: right;
+}
+.form-check {
+  border: 1px solid #ABABAB;
+  margin: 10px;
+  padding: 10px;
+  padding-left: 30px !important;
+}
+
+.est-form-box .form-check {
+  border: 1px solid #ABABAB;
+  margin: 10px;
+  padding: 10px;
+  width: 35%;
+  padding-left: 30px !important;
+}
+.est-highlight {
+  padding: 10px 0 10x 0;
+  margin: 0%;
+}
+.est-form-border {
+  border: 1px solid #ABABAB;
+  border-radius: 12px;
+}
+
+span.search-border-est {
+  border: 1px solid #267DFF;
+  font-size: 15px;
+  padding: 0px 25%;
+  border-radius: 30px;
+  color: #267DFF ;
+}
+p#searchdomain {
+  color: #707070;
+}
+input[type=checkbox]:checked {
+  background-color: #f00;
+  font-style: normal;
+} 
